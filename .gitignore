@@ -24,3 +24,8 @@ site/**
 bench/**
 target/**
 /target/
+.idea
+bin
+.project
+.classpath
+riemann.iml
